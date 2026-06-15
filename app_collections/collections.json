@@ -70,7 +70,7 @@
         ]
     },
     "💻 Windows Customization": {
-        "description": "Deep system utilities to modify the taskbar, manage files, and automate inputs.",
+        "description": "Deep system utilities to modify the taskbar, manage files, and automate inputs. 67",
         "apps": [
             {"name": "Everything Search", "id": "voidtools.Everything"},
             {"name": "Rufus", "id": "Rufus.Rufus"},
